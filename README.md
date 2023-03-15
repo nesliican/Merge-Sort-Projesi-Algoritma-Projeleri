@@ -15,3 +15,5 @@ Big-O gösterimini yazınız.
 7.aşama: [8,11,12,16,21,22]
 
 Big-O gösterimi O(nlogn)
+
+patika.dev linkim: https://app.patika.dev/nesliihan
